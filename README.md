@@ -73,4 +73,4 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 👤 Author
 **Muhammad Shahan Butt**  
-[GitHub Profile](https://github.com/yourusername) | [LinkedIn](https://www.linkedin.com/in/shahan-butt-aiengineer/)
+[GitHub Profile](https://github.com/Shahanbutt07) | [LinkedIn](https://www.linkedin.com/in/shahan-butt-aiengineer/)
